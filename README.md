@@ -1,4 +1,6 @@
-# Projects
+# Purpose
+- Vanilla JavaScript practice
 
-JS Algorithms
-Dream: Text-to-Image Generator
+# Projects
+- AI — attempt of a text to image generator
+- Algorithms — showcase algorithms using vanilla JavaScript
